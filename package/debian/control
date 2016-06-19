@@ -1,0 +1,13 @@
+Package: nmt
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Depends: libc6
+Maintainer: Aditi <aditi@ncrux.com>
+Description: nCrux Make Tool
+ A tool to generate makefiles for a project using ultra simplified input.
+ It supports building of binaries, static libraries, shared libraries,
+ kernel modules and another nmt based sub-projects.
+
+
